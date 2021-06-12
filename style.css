@@ -1,0 +1,56 @@
+body{
+    
+    border: solid 1px rgb(15, 46, 100);
+    background-color: rgb(241, 226, 207);
+}
+
+
+.div-img
+{
+  margin: auto;
+  width: 75%;
+  
+  display: block;
+ 
+}
+
+.img
+{
+  
+   border-radius: 50px;
+}
+
+a:hover
+{
+    color: rgb(36, 14, 235) 
+}
+
+.form
+{
+    width: 700px;
+    height: 500px;
+    border: double;
+    background-color: rgb(148, 214, 177);
+    padding: 90px;
+}
+
+
+
+
+#bouton :hover{
+    cursor:pointer;
+    color: rgb(36, 14, 235);
+}
+
+.heddingform{
+    background-color: red;
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+}
+
+.video
+{
+    margin: auto;
+    padding: 0% 30%;
+}
